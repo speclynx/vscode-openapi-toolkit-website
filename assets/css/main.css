@@ -15,3 +15,7 @@ html {
 .header-h1-color { color: #3A97CC; }
 .header-p-color { color: #092B4E; }
 .footer-background-color { background-color: #092B4E; }
+
+.primary-cta {
+  background-color: #092B4E;
+}
